@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xLyMzR
-- 👀 I’m interested in Python, Java, Frameworks, MRI treatment, CyberSecurity, Networks, IOT, Machine Learning and AI.
+- 👀 I’m interested in Python, Java, .NET, Frameworks, MRI treatment and Computer Vision, CyberSecurity, Networks, IOT, Machine Learning and AI.
 - 🌱 I’m currently learning Java, Html, Css, Javascript;
 - 💞️ I’m looking to collaborate on JavaProjects.
 - 📫 How to reach me leonardomamedeee@gmail.com
